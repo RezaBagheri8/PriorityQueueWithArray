@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\bin\Debug\net6.0\PriorityQueueWithArray.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\bin\Debug\net6.0\PriorityQueueWithArray.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\bin\Debug\net6.0\PriorityQueueWithArray.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\bin\Debug\net6.0\PriorityQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\bin\Debug\net6.0\PriorityQueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\refint\PriorityQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\PriorityQueueWithArray.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\PriorityQueueWithArray\obj\Debug\net6.0\ref\PriorityQueueWithArray.dll
